@@ -1,0 +1,6 @@
+erreur dans cette partie:
+            j++;
+            i--;
+la correction :
+            j--;
+            i++;
